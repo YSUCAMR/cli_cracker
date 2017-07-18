@@ -10,7 +10,6 @@ import cv2
 import math
 import datetime
 import itertools
-import argparse  
 
 def cli_readerbinary( fileinput ):
 
